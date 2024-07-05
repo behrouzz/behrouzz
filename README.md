@@ -2,7 +2,7 @@
 
 Interested in data science, scientific programming and astrophysics.
 - [Data science certificates](https://behrouzz.github.io/certificates)
-- [AstroDataScience] (https://behrouzz.github.io/astrodatascience)
+- [AstroDataScience](https://behrouzz.github.io/astrodatascience)
 - [Social Science](https://behrouzz.github.io/socio)
 
 <!---
