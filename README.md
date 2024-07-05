@@ -4,6 +4,7 @@ Interested in data science, scientific programming and astrophysics.
 - [Data science certificates](https://behrouzz.github.io/certificates)
 - [AstroDataScience](https://behrouzz.github.io/astrodatascience)
 - [Social Science](https://behrouzz.github.io/socio)
+- [Fundamental Astronomy With Swift](https://behrouzz.github.io/faws)
 
 <!---
 behrouzz/behrouzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
